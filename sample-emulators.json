@@ -1,0 +1,12 @@
+{
+    "nexus7-4.4.3": {
+        "target": "android-19",
+        "abi": "x86",
+        "skin": "1280x800"
+    },
+    "nexus7-L": {
+        "target": "android-21",
+        "abi": "x86",
+        "skin": "1280x800"
+    }
+}
