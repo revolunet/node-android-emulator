@@ -1,9 +1,9 @@
 # node-android-emulator [![experimental](http://hughsk.github.io/stability-badges/dist/experimental.svg)](http://github.com/hughsk/stability-badges)
 
-Manage android emulators from your NodeJS scripts.
+Manage android emulators.
 
 ```js
-var emulator = require('node-android-emulator');
+var emulator = require('android-emulator');
 ```
 
 Make sure to install [Intel HAXM](https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager) to have better perfs using x86 images.
