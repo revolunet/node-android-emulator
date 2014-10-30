@@ -1,7 +1,7 @@
 {
-  "name": "node-android-emulator",
+  "name": "android-emulator",
   "version": "1.0.0",
-  "description": "Manage android emulators from your NodeJS scripts.",
+  "description": "Manage android emulators",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,7 @@
   },
   "bugs": "https://github.com/revolunet/node-android-emulator/issues",
   "license": "MIT",
+  "main":"lib/emulator.js",
   "dependencies": {
     "q": "^1.0.1",
     "shelljs": "^0.3.0",
