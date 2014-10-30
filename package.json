@@ -15,7 +15,6 @@
   "main":"lib/emulator.js",
   "dependencies": {
     "q": "^1.0.1",
-    "shelljs": "^0.3.0",
-    "winston": "^0.8.1"
+    "shelljs": "^0.3.0"
   }
 }
