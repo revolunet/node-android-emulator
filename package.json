@@ -12,6 +12,7 @@
   },
   "bugs": "https://github.com/revolunet/node-android-emulator/issues",
   "license": "MIT",
+  "main":"lib/emulator.js",
   "dependencies": {
     "q": "^1.0.1",
     "shelljs": "^0.3.0",
